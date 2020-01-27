@@ -1,0 +1,2401 @@
+{ 
+    "_id" : ObjectId("5c8a97e1d44b796a692f4666"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:05:19.000+0000"), 
+    "price" : NumberDecimal("1188.9800"), 
+    "volume" : NumberLong(588028)
+}
+{ 
+    "_id" : ObjectId("5c8a97e1d44b796a692f4668"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:05:19.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2712648)
+}
+{ 
+    "_id" : ObjectId("5c8a97e1d44b796a692f466a"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:05:14.000+0000"), 
+    "price" : NumberDecimal("170.5200"), 
+    "volume" : NumberLong(12359952)
+}
+{ 
+    "_id" : ObjectId("5c8a97e1d44b796a692f466c"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:05:20.000+0000"), 
+    "price" : NumberDecimal("114.5500"), 
+    "volume" : NumberLong(11859119)
+}
+{ 
+    "_id" : ObjectId("5c8a97e1d44b796a692f466e"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:05:00.000+0000"), 
+    "price" : NumberDecimal("31.0350"), 
+    "volume" : NumberLong(7706258)
+}
+{ 
+    "_id" : ObjectId("5c8a97e1d44b796a692f4670"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:05:11.000+0000"), 
+    "price" : NumberDecimal("360.1500"), 
+    "volume" : NumberLong(3737670)
+}
+{ 
+    "_id" : ObjectId("5c8a97e1d44b796a692f4672"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:05:20.000+0000"), 
+    "price" : NumberDecimal("105.3200"), 
+    "volume" : NumberLong(5976216)
+}
+{ 
+    "_id" : ObjectId("5c8a97e1d44b796a692f4674"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:05:19.000+0000"), 
+    "price" : NumberDecimal("1693.0400"), 
+    "volume" : NumberLong(1859004)
+}
+{ 
+    "_id" : ObjectId("5c8a97e1d44b796a692f4676"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:05:16.000+0000"), 
+    "price" : NumberDecimal("63.9800"), 
+    "volume" : NumberLong(6612158)
+}
+{ 
+    "_id" : ObjectId("5c8a97e1d44b796a692f4678"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:05:14.000+0000"), 
+    "price" : NumberDecimal("29.5000"), 
+    "volume" : NumberLong(27968108)
+}
+{ 
+    "_id" : ObjectId("5c8a97e5d44b796a692f467a"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:05:21.000+0000"), 
+    "price" : NumberDecimal("1188.9800"), 
+    "volume" : NumberLong(588028)
+}
+{ 
+    "_id" : ObjectId("5c8a97e5d44b796a692f467c"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:05:25.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2713528)
+}
+{ 
+    "_id" : ObjectId("5c8a97e5d44b796a692f467f"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:05:21.000+0000"), 
+    "price" : NumberDecimal("114.5450"), 
+    "volume" : NumberLong(11861369)
+}
+{ 
+    "_id" : ObjectId("5c8a97e5d44b796a692f4681"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:05:22.000+0000"), 
+    "price" : NumberDecimal("31.0350"), 
+    "volume" : NumberLong(7711562)
+}
+{ 
+    "_id" : ObjectId("5c8a97e5d44b796a692f4683"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:05:24.000+0000"), 
+    "price" : NumberDecimal("360.1500"), 
+    "volume" : NumberLong(3743877)
+}
+{ 
+    "_id" : ObjectId("5c8a97e5d44b796a692f4685"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:05:22.000+0000"), 
+    "price" : NumberDecimal("105.3200"), 
+    "volume" : NumberLong(5976216)
+}
+{ 
+    "_id" : ObjectId("5c8a97e5d44b796a692f4687"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:05:24.000+0000"), 
+    "price" : NumberDecimal("1693.0400"), 
+    "volume" : NumberLong(1859004)
+}
+{ 
+    "_id" : ObjectId("5c8a97e5d44b796a692f4689"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:05:24.000+0000"), 
+    "price" : NumberDecimal("63.9800"), 
+    "volume" : NumberLong(6612158)
+}
+{ 
+    "_id" : ObjectId("5c8a97ead44b796a692f468e"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:05:30.000+0000"), 
+    "price" : NumberDecimal("1188.9800"), 
+    "volume" : NumberLong(588391)
+}
+{ 
+    "_id" : ObjectId("5c8a97ead44b796a692f4690"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:05:29.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2713528)
+}
+{ 
+    "_id" : ObjectId("5c8a97ead44b796a692f4693"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:05:30.000+0000"), 
+    "price" : NumberDecimal("114.5450"), 
+    "volume" : NumberLong(11861369)
+}
+{ 
+    "_id" : ObjectId("5c8a97ead44b796a692f4695"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:05:29.000+0000"), 
+    "price" : NumberDecimal("31.0350"), 
+    "volume" : NumberLong(7711562)
+}
+{ 
+    "_id" : ObjectId("5c8a97ead44b796a692f4697"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:05:28.000+0000"), 
+    "price" : NumberDecimal("360.1500"), 
+    "volume" : NumberLong(3743877)
+}
+{ 
+    "_id" : ObjectId("5c8a97ead44b796a692f4699"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:05:30.000+0000"), 
+    "price" : NumberDecimal("105.3300"), 
+    "volume" : NumberLong(5979144)
+}
+{ 
+    "_id" : ObjectId("5c8a97ead44b796a692f469b"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:05:30.000+0000"), 
+    "price" : NumberDecimal("1693.0400"), 
+    "volume" : NumberLong(1859004)
+}
+{ 
+    "_id" : ObjectId("5c8a97ead44b796a692f469d"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:05:29.000+0000"), 
+    "price" : NumberDecimal("63.9750"), 
+    "volume" : NumberLong(6615006)
+}
+{ 
+    "_id" : ObjectId("5c8a97efd44b796a692f46a1"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:05:32.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2713528)
+}
+{ 
+    "_id" : ObjectId("5c8a97efd44b796a692f46a4"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:05:35.000+0000"), 
+    "price" : NumberDecimal("114.5350"), 
+    "volume" : NumberLong(11864916)
+}
+{ 
+    "_id" : ObjectId("5c8a97efd44b796a692f46a6"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:05:31.000+0000"), 
+    "price" : NumberDecimal("31.0200"), 
+    "volume" : NumberLong(7713136)
+}
+{ 
+    "_id" : ObjectId("5c8a97efd44b796a692f46a9"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:05:34.000+0000"), 
+    "price" : NumberDecimal("105.3100"), 
+    "volume" : NumberLong(5982909)
+}
+{ 
+    "_id" : ObjectId("5c8a97efd44b796a692f46ab"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:05:31.000+0000"), 
+    "price" : NumberDecimal("1693.0400"), 
+    "volume" : NumberLong(1859004)
+}
+{ 
+    "_id" : ObjectId("5c8a97efd44b796a692f46ad"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:05:34.000+0000"), 
+    "price" : NumberDecimal("63.9650"), 
+    "volume" : NumberLong(6620630)
+}
+{ 
+    "_id" : ObjectId("5c8a97efd44b796a692f46af"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:05:34.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28002327)
+}
+{ 
+    "_id" : ObjectId("5c8a97f4d44b796a692f46b6"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:05:39.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2713528)
+}
+{ 
+    "_id" : ObjectId("5c8a97f4d44b796a692f46b9"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:05:39.000+0000"), 
+    "price" : NumberDecimal("114.5500"), 
+    "volume" : NumberLong(11872675)
+}
+{ 
+    "_id" : ObjectId("5c8a97f4d44b796a692f46bc"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:05:40.000+0000"), 
+    "price" : NumberDecimal("360.1500"), 
+    "volume" : NumberLong(3745431)
+}
+{ 
+    "_id" : ObjectId("5c8a97f4d44b796a692f46be"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:05:39.000+0000"), 
+    "price" : NumberDecimal("105.3050"), 
+    "volume" : NumberLong(5983747)
+}
+{ 
+    "_id" : ObjectId("5c8a97f4d44b796a692f46c0"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:05:40.000+0000"), 
+    "price" : NumberDecimal("1693.0400"), 
+    "volume" : NumberLong(1860273)
+}
+{ 
+    "_id" : ObjectId("5c8a97f4d44b796a692f46c2"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:05:37.000+0000"), 
+    "price" : NumberDecimal("63.9650"), 
+    "volume" : NumberLong(6620630)
+}
+{ 
+    "_id" : ObjectId("5c8a9808d44b796a692f46c9"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:05:59.000+0000"), 
+    "price" : NumberDecimal("1188.9800"), 
+    "volume" : NumberLong(590030)
+}
+{ 
+    "_id" : ObjectId("5c8a9808d44b796a692f46cb"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:06:00.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2713528)
+}
+{ 
+    "_id" : ObjectId("5c8a9808d44b796a692f46cd"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:05:53.000+0000"), 
+    "price" : NumberDecimal("170.5200"), 
+    "volume" : NumberLong(12364836)
+}
+{ 
+    "_id" : ObjectId("5c8a9808d44b796a692f46cf"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:05:59.000+0000"), 
+    "price" : NumberDecimal("114.5600"), 
+    "volume" : NumberLong(11903766)
+}
+{ 
+    "_id" : ObjectId("5c8a9808d44b796a692f46d1"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:05:51.000+0000"), 
+    "price" : NumberDecimal("31.0200"), 
+    "volume" : NumberLong(7713136)
+}
+{ 
+    "_id" : ObjectId("5c8a9808d44b796a692f46d3"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:05:57.000+0000"), 
+    "price" : NumberDecimal("360.1450"), 
+    "volume" : NumberLong(3748028)
+}
+{ 
+    "_id" : ObjectId("5c8a9808d44b796a692f46d5"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:06:00.000+0000"), 
+    "price" : NumberDecimal("105.3350"), 
+    "volume" : NumberLong(5989169)
+}
+{ 
+    "_id" : ObjectId("5c8a9808d44b796a692f46d7"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:05:59.000+0000"), 
+    "price" : NumberDecimal("1693.0400"), 
+    "volume" : NumberLong(1860273)
+}
+{ 
+    "_id" : ObjectId("5c8a9808d44b796a692f46d9"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:06:00.000+0000"), 
+    "price" : NumberDecimal("63.9750"), 
+    "volume" : NumberLong(6624831)
+}
+{ 
+    "_id" : ObjectId("5c8a9808d44b796a692f46db"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:05:44.000+0000"), 
+    "price" : NumberDecimal("29.5000"), 
+    "volume" : NumberLong(28015059)
+}
+{ 
+    "_id" : ObjectId("5c8a980dd44b796a692f46ea"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:06:05.000+0000"), 
+    "price" : NumberDecimal("1188.9800"), 
+    "volume" : NumberLong(590030)
+}
+{ 
+    "_id" : ObjectId("5c8a980dd44b796a692f46ec"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:06:05.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2714813)
+}
+{ 
+    "_id" : ObjectId("5c8a980dd44b796a692f46ee"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:06:05.000+0000"), 
+    "price" : NumberDecimal("170.5200"), 
+    "volume" : NumberLong(12364836)
+}
+{ 
+    "_id" : ObjectId("5c8a980dd44b796a692f46f0"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:06:05.000+0000"), 
+    "price" : NumberDecimal("114.5600"), 
+    "volume" : NumberLong(11907998)
+}
+{ 
+    "_id" : ObjectId("5c8a980dd44b796a692f46f3"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:06:01.000+0000"), 
+    "price" : NumberDecimal("360.1500"), 
+    "volume" : NumberLong(3749066)
+}
+{ 
+    "_id" : ObjectId("5c8a980dd44b796a692f46f5"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:06:05.000+0000"), 
+    "price" : NumberDecimal("105.3250"), 
+    "volume" : NumberLong(5989593)
+}
+{ 
+    "_id" : ObjectId("5c8a980dd44b796a692f46f7"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:06:03.000+0000"), 
+    "price" : NumberDecimal("1693.0400"), 
+    "volume" : NumberLong(1861543)
+}
+{ 
+    "_id" : ObjectId("5c8a980dd44b796a692f46f9"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:06:04.000+0000"), 
+    "price" : NumberDecimal("63.9750"), 
+    "volume" : NumberLong(6624831)
+}
+{ 
+    "_id" : ObjectId("5c8a9812d44b796a692f4711"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:06:10.000+0000"), 
+    "price" : NumberDecimal("1189.5900"), 
+    "volume" : NumberLong(590123)
+}
+{ 
+    "_id" : ObjectId("5c8a9812d44b796a692f4713"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:06:10.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2714813)
+}
+{ 
+    "_id" : ObjectId("5c8a9812d44b796a692f4716"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:06:10.000+0000"), 
+    "price" : NumberDecimal("114.5800"), 
+    "volume" : NumberLong(11914006)
+}
+{ 
+    "_id" : ObjectId("5c8a9812d44b796a692f4718"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:06:08.000+0000"), 
+    "price" : NumberDecimal("31.0200"), 
+    "volume" : NumberLong(7718444)
+}
+{ 
+    "_id" : ObjectId("5c8a9812d44b796a692f471a"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:06:10.000+0000"), 
+    "price" : NumberDecimal("360.1500"), 
+    "volume" : NumberLong(3750622)
+}
+{ 
+    "_id" : ObjectId("5c8a9812d44b796a692f471c"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:06:10.000+0000"), 
+    "price" : NumberDecimal("105.3250"), 
+    "volume" : NumberLong(5993343)
+}
+{ 
+    "_id" : ObjectId("5c8a9812d44b796a692f471e"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:06:09.000+0000"), 
+    "price" : NumberDecimal("1693.0400"), 
+    "volume" : NumberLong(1861543)
+}
+{ 
+    "_id" : ObjectId("5c8a9812d44b796a692f4720"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:06:10.000+0000"), 
+    "price" : NumberDecimal("63.9900"), 
+    "volume" : NumberLong(6626249)
+}
+{ 
+    "_id" : ObjectId("5c8a9818d44b796a692f4723"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:06:15.000+0000"), 
+    "price" : NumberDecimal("1189.5900"), 
+    "volume" : NumberLong(590123)
+}
+{ 
+    "_id" : ObjectId("5c8a9818d44b796a692f4725"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:06:16.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2714813)
+}
+{ 
+    "_id" : ObjectId("5c8a9818d44b796a692f4727"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:06:14.000+0000"), 
+    "price" : NumberDecimal("170.5200"), 
+    "volume" : NumberLong(12369723)
+}
+{ 
+    "_id" : ObjectId("5c8a9818d44b796a692f4729"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:06:16.000+0000"), 
+    "price" : NumberDecimal("114.5650"), 
+    "volume" : NumberLong(11919751)
+}
+{ 
+    "_id" : ObjectId("5c8a9818d44b796a692f472c"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:06:11.000+0000"), 
+    "price" : NumberDecimal("360.1800"), 
+    "volume" : NumberLong(3750704)
+}
+{ 
+    "_id" : ObjectId("5c8a9818d44b796a692f472e"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:06:14.000+0000"), 
+    "price" : NumberDecimal("105.3250"), 
+    "volume" : NumberLong(5994179)
+}
+{ 
+    "_id" : ObjectId("5c8a9818d44b796a692f4730"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:06:15.000+0000"), 
+    "price" : NumberDecimal("1693.0400"), 
+    "volume" : NumberLong(1861543)
+}
+{ 
+    "_id" : ObjectId("5c8a9818d44b796a692f4732"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:06:13.000+0000"), 
+    "price" : NumberDecimal("63.9850"), 
+    "volume" : NumberLong(6624926)
+}
+{ 
+    "_id" : ObjectId("5c8a9818d44b796a692f4734"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:06:14.000+0000"), 
+    "price" : NumberDecimal("29.5000"), 
+    "volume" : NumberLong(28015059)
+}
+{ 
+    "_id" : ObjectId("5c8a981cd44b796a692f4738"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:06:20.000+0000"), 
+    "price" : NumberDecimal("1189.6200"), 
+    "volume" : NumberLong(590564)
+}
+{ 
+    "_id" : ObjectId("5c8a981cd44b796a692f473a"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:06:17.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2714813)
+}
+{ 
+    "_id" : ObjectId("5c8a981cd44b796a692f473c"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:06:19.000+0000"), 
+    "price" : NumberDecimal("170.5750"), 
+    "volume" : NumberLong(12373675)
+}
+{ 
+    "_id" : ObjectId("5c8a981cd44b796a692f4741"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:06:19.000+0000"), 
+    "price" : NumberDecimal("105.3250"), 
+    "volume" : NumberLong(5995429)
+}
+{ 
+    "_id" : ObjectId("5c8a981cd44b796a692f4743"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:06:16.000+0000"), 
+    "price" : NumberDecimal("1693.0400"), 
+    "volume" : NumberLong(1861543)
+}
+{ 
+    "_id" : ObjectId("5c8a981cd44b796a692f4745"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:06:19.000+0000"), 
+    "price" : NumberDecimal("63.9750"), 
+    "volume" : NumberLong(6630536)
+}
+{ 
+    "_id" : ObjectId("5c8a981cd44b796a692f4747"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:06:19.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28033127)
+}
+{ 
+    "_id" : ObjectId("5c8a9844d44b796a692f47b5"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:07:00.000+0000"), 
+    "price" : NumberDecimal("1189.6200"), 
+    "volume" : NumberLong(590746)
+}
+{ 
+    "_id" : ObjectId("5c8a9844d44b796a692f47b7"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:06:43.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2716098)
+}
+{ 
+    "_id" : ObjectId("5c8a9844d44b796a692f47b9"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:06:52.000+0000"), 
+    "price" : NumberDecimal("170.6550"), 
+    "volume" : NumberLong(12387420)
+}
+{ 
+    "_id" : ObjectId("5c8a9844d44b796a692f47bb"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:07:00.000+0000"), 
+    "price" : NumberDecimal("114.6300"), 
+    "volume" : NumberLong(11941101)
+}
+{ 
+    "_id" : ObjectId("5c8a9844d44b796a692f47bd"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:06:54.000+0000"), 
+    "price" : NumberDecimal("31.0300"), 
+    "volume" : NumberLong(7737534)
+}
+{ 
+    "_id" : ObjectId("5c8a9844d44b796a692f47bf"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:07:00.000+0000"), 
+    "price" : NumberDecimal("360.2400"), 
+    "volume" : NumberLong(3756408)
+}
+{ 
+    "_id" : ObjectId("5c8a9844d44b796a692f47c1"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:06:54.000+0000"), 
+    "price" : NumberDecimal("105.3450"), 
+    "volume" : NumberLong(6015498)
+}
+{ 
+    "_id" : ObjectId("5c8a9844d44b796a692f47c3"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:06:57.000+0000"), 
+    "price" : NumberDecimal("1695.0000"), 
+    "volume" : NumberLong(1868855)
+}
+{ 
+    "_id" : ObjectId("5c8a9844d44b796a692f47c5"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:06:59.000+0000"), 
+    "price" : NumberDecimal("63.9950"), 
+    "volume" : NumberLong(6634935)
+}
+{ 
+    "_id" : ObjectId("5c8a9844d44b796a692f47c7"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:06:48.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28093026)
+}
+{ 
+    "_id" : ObjectId("5c8a9849d44b796a692f47c9"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:07:05.000+0000"), 
+    "price" : NumberDecimal("1189.6200"), 
+    "volume" : NumberLong(590746)
+}
+{ 
+    "_id" : ObjectId("5c8a9849d44b796a692f47cb"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:07:03.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2716098)
+}
+{ 
+    "_id" : ObjectId("5c8a9849d44b796a692f47ce"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:07:05.000+0000"), 
+    "price" : NumberDecimal("114.6300"), 
+    "volume" : NumberLong(11958093)
+}
+{ 
+    "_id" : ObjectId("5c8a9849d44b796a692f47d0"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:07:04.000+0000"), 
+    "price" : NumberDecimal("31.0300"), 
+    "volume" : NumberLong(7758908)
+}
+{ 
+    "_id" : ObjectId("5c8a9849d44b796a692f47d2"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:07:03.000+0000"), 
+    "price" : NumberDecimal("360.2400"), 
+    "volume" : NumberLong(3756408)
+}
+{ 
+    "_id" : ObjectId("5c8a9849d44b796a692f47d4"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:07:05.000+0000"), 
+    "price" : NumberDecimal("105.3650"), 
+    "volume" : NumberLong(6017887)
+}
+{ 
+    "_id" : ObjectId("5c8a9849d44b796a692f47d6"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:07:05.000+0000"), 
+    "price" : NumberDecimal("1694.9000"), 
+    "volume" : NumberLong(1870995)
+}
+{ 
+    "_id" : ObjectId("5c8a9849d44b796a692f47d9"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:07:03.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28093026)
+}
+{ 
+    "_id" : ObjectId("5c8a984ed44b796a692f47dd"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:07:10.000+0000"), 
+    "price" : NumberDecimal("1189.6200"), 
+    "volume" : NumberLong(592024)
+}
+{ 
+    "_id" : ObjectId("5c8a984ed44b796a692f47df"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:07:10.000+0000"), 
+    "price" : NumberDecimal("73.4100"), 
+    "volume" : NumberLong(2716098)
+}
+{ 
+    "_id" : ObjectId("5c8a984ed44b796a692f47e2"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:07:10.000+0000"), 
+    "price" : NumberDecimal("114.6300"), 
+    "volume" : NumberLong(11958093)
+}
+{ 
+    "_id" : ObjectId("5c8a984ed44b796a692f47e5"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:07:10.000+0000"), 
+    "price" : NumberDecimal("360.2400"), 
+    "volume" : NumberLong(3756408)
+}
+{ 
+    "_id" : ObjectId("5c8a984ed44b796a692f47e7"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:07:10.000+0000"), 
+    "price" : NumberDecimal("105.3650"), 
+    "volume" : NumberLong(6017887)
+}
+{ 
+    "_id" : ObjectId("5c8a984ed44b796a692f47e9"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:07:08.000+0000"), 
+    "price" : NumberDecimal("1694.9000"), 
+    "volume" : NumberLong(1870995)
+}
+{ 
+    "_id" : ObjectId("5c8a984ed44b796a692f47eb"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:07:10.000+0000"), 
+    "price" : NumberDecimal("63.9950"), 
+    "volume" : NumberLong(6637709)
+}
+{ 
+    "_id" : ObjectId("5c8a984ed44b796a692f47ed"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:07:07.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28093026)
+}
+{ 
+    "_id" : ObjectId("5c8a9855d44b796a692f47f0"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:07:13.000+0000"), 
+    "price" : NumberDecimal("1189.6200"), 
+    "volume" : NumberLong(592207)
+}
+{ 
+    "_id" : ObjectId("5c8a9855d44b796a692f47f2"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:07:16.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2727289)
+}
+{ 
+    "_id" : ObjectId("5c8a9855d44b796a692f47f4"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:07:14.000+0000"), 
+    "price" : NumberDecimal("170.6800"), 
+    "volume" : NumberLong(12396280)
+}
+{ 
+    "_id" : ObjectId("5c8a9855d44b796a692f47f6"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:07:16.000+0000"), 
+    "price" : NumberDecimal("114.6300"), 
+    "volume" : NumberLong(11962348)
+}
+{ 
+    "_id" : ObjectId("5c8a9855d44b796a692f47f8"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:07:15.000+0000"), 
+    "price" : NumberDecimal("31.0300"), 
+    "volume" : NumberLong(7780401)
+}
+{ 
+    "_id" : ObjectId("5c8a9855d44b796a692f47fa"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:07:16.000+0000"), 
+    "price" : NumberDecimal("360.2400"), 
+    "volume" : NumberLong(3757966)
+}
+{ 
+    "_id" : ObjectId("5c8a9855d44b796a692f47fc"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:07:13.000+0000"), 
+    "price" : NumberDecimal("105.3450"), 
+    "volume" : NumberLong(6019552)
+}
+{ 
+    "_id" : ObjectId("5c8a9855d44b796a692f47fe"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:07:15.000+0000"), 
+    "price" : NumberDecimal("1695.2300"), 
+    "volume" : NumberLong(1872263)
+}
+{ 
+    "_id" : ObjectId("5c8a9855d44b796a692f4800"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:07:13.000+0000"), 
+    "price" : NumberDecimal("64.0000"), 
+    "volume" : NumberLong(6636340)
+}
+{ 
+    "_id" : ObjectId("5c8a9858d44b796a692f4804"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:07:20.000+0000"), 
+    "price" : NumberDecimal("1189.6200"), 
+    "volume" : NumberLong(592574)
+}
+{ 
+    "_id" : ObjectId("5c8a9858d44b796a692f4806"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:07:18.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2727289)
+}
+{ 
+    "_id" : ObjectId("5c8a9858d44b796a692f4808"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:07:18.000+0000"), 
+    "price" : NumberDecimal("170.6800"), 
+    "volume" : NumberLong(12396280)
+}
+{ 
+    "_id" : ObjectId("5c8a9858d44b796a692f480a"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:07:20.000+0000"), 
+    "price" : NumberDecimal("114.6550"), 
+    "volume" : NumberLong(11961864)
+}
+{ 
+    "_id" : ObjectId("5c8a9858d44b796a692f480c"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:07:20.000+0000"), 
+    "price" : NumberDecimal("31.0300"), 
+    "volume" : NumberLong(7785793)
+}
+{ 
+    "_id" : ObjectId("5c8a9858d44b796a692f480e"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:07:20.000+0000"), 
+    "price" : NumberDecimal("360.2400"), 
+    "volume" : NumberLong(3757966)
+}
+{ 
+    "_id" : ObjectId("5c8a9858d44b796a692f4811"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:07:19.000+0000"), 
+    "price" : NumberDecimal("1695.2300"), 
+    "volume" : NumberLong(1872263)
+}
+{ 
+    "_id" : ObjectId("5c8a9858d44b796a692f4814"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:07:19.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28093026)
+}
+{ 
+    "_id" : ObjectId("5c8a985dd44b796a692f4816"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:07:24.000+0000"), 
+    "price" : NumberDecimal("1189.6200"), 
+    "volume" : NumberLong(592757)
+}
+{ 
+    "_id" : ObjectId("5c8a985dd44b796a692f4818"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:07:25.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2731178)
+}
+{ 
+    "_id" : ObjectId("5c8a985dd44b796a692f481a"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:07:24.000+0000"), 
+    "price" : NumberDecimal("170.6800"), 
+    "volume" : NumberLong(12396280)
+}
+{ 
+    "_id" : ObjectId("5c8a985dd44b796a692f481c"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:07:25.000+0000"), 
+    "price" : NumberDecimal("114.6700"), 
+    "volume" : NumberLong(11965421)
+}
+{ 
+    "_id" : ObjectId("5c8a985dd44b796a692f481e"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:07:24.000+0000"), 
+    "price" : NumberDecimal("31.0300"), 
+    "volume" : NumberLong(7785793)
+}
+{ 
+    "_id" : ObjectId("5c8a985dd44b796a692f4820"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:07:23.000+0000"), 
+    "price" : NumberDecimal("360.2400"), 
+    "volume" : NumberLong(3759526)
+}
+{ 
+    "_id" : ObjectId("5c8a985dd44b796a692f4822"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:07:25.000+0000"), 
+    "price" : NumberDecimal("105.3450"), 
+    "volume" : NumberLong(6019552)
+}
+{ 
+    "_id" : ObjectId("5c8a985dd44b796a692f4824"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:07:24.000+0000"), 
+    "price" : NumberDecimal("1695.2300"), 
+    "volume" : NumberLong(1872263)
+}
+{ 
+    "_id" : ObjectId("5c8a985dd44b796a692f4826"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:07:24.000+0000"), 
+    "price" : NumberDecimal("63.9950"), 
+    "volume" : NumberLong(6640517)
+}
+{ 
+    "_id" : ObjectId("5c8a985dd44b796a692f4828"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:07:24.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28093026)
+}
+{ 
+    "_id" : ObjectId("5c8a9880d44b796a692f485a"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:07:59.000+0000"), 
+    "price" : NumberDecimal("1189.7500"), 
+    "volume" : NumberLong(596171)
+}
+{ 
+    "_id" : ObjectId("5c8a9880d44b796a692f485c"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:07:59.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2732477)
+}
+{ 
+    "_id" : ObjectId("5c8a9880d44b796a692f485e"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:07:59.000+0000"), 
+    "price" : NumberDecimal("170.6800"), 
+    "volume" : NumberLong(12411014)
+}
+{ 
+    "_id" : ObjectId("5c8a9880d44b796a692f4860"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:07:59.000+0000"), 
+    "price" : NumberDecimal("114.6600"), 
+    "volume" : NumberLong(11977536)
+}
+{ 
+    "_id" : ObjectId("5c8a9880d44b796a692f4862"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:07:44.000+0000"), 
+    "price" : NumberDecimal("31.0700"), 
+    "volume" : NumberLong(7798127)
+}
+{ 
+    "_id" : ObjectId("5c8a9880d44b796a692f4864"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:07:56.000+0000"), 
+    "price" : NumberDecimal("360.3800"), 
+    "volume" : NumberLong(3761420)
+}
+{ 
+    "_id" : ObjectId("5c8a9880d44b796a692f4866"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:07:58.000+0000"), 
+    "price" : NumberDecimal("105.3550"), 
+    "volume" : NumberLong(6023734)
+}
+{ 
+    "_id" : ObjectId("5c8a9880d44b796a692f4868"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:07:57.000+0000"), 
+    "price" : NumberDecimal("1695.2200"), 
+    "volume" : NumberLong(1873945)
+}
+{ 
+    "_id" : ObjectId("5c8a9880d44b796a692f486a"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:07:56.000+0000"), 
+    "price" : NumberDecimal("64.0000"), 
+    "volume" : NumberLong(6646438)
+}
+{ 
+    "_id" : ObjectId("5c8a9880d44b796a692f486c"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:08:00.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28115331)
+}
+{ 
+    "_id" : ObjectId("5c8a9886d44b796a692f486e"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:08:04.000+0000"), 
+    "price" : NumberDecimal("1189.7500"), 
+    "volume" : NumberLong(596357)
+}
+{ 
+    "_id" : ObjectId("5c8a9886d44b796a692f4870"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:08:05.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2732477)
+}
+{ 
+    "_id" : ObjectId("5c8a9886d44b796a692f4872"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:08:05.000+0000"), 
+    "price" : NumberDecimal("170.6800"), 
+    "volume" : NumberLong(12411014)
+}
+{ 
+    "_id" : ObjectId("5c8a9886d44b796a692f4874"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:08:05.000+0000"), 
+    "price" : NumberDecimal("114.6600"), 
+    "volume" : NumberLong(11981801)
+}
+{ 
+    "_id" : ObjectId("5c8a9886d44b796a692f4876"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:08:05.000+0000"), 
+    "price" : NumberDecimal("31.0700"), 
+    "volume" : NumberLong(7798127)
+}
+{ 
+    "_id" : ObjectId("5c8a9886d44b796a692f4878"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:08:05.000+0000"), 
+    "price" : NumberDecimal("360.4400"), 
+    "volume" : NumberLong(3761835)
+}
+{ 
+    "_id" : ObjectId("5c8a9886d44b796a692f487a"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:08:03.000+0000"), 
+    "price" : NumberDecimal("105.3550"), 
+    "volume" : NumberLong(6023734)
+}
+{ 
+    "_id" : ObjectId("5c8a9886d44b796a692f487c"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:08:05.000+0000"), 
+    "price" : NumberDecimal("1695.2200"), 
+    "volume" : NumberLong(1875201)
+}
+{ 
+    "_id" : ObjectId("5c8a9886d44b796a692f487e"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:08:05.000+0000"), 
+    "price" : NumberDecimal("64.0000"), 
+    "volume" : NumberLong(6646438)
+}
+{ 
+    "_id" : ObjectId("5c8a988ad44b796a692f4884"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:08:10.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2733777)
+}
+{ 
+    "_id" : ObjectId("5c8a988ad44b796a692f4886"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:08:10.000+0000"), 
+    "price" : NumberDecimal("170.6800"), 
+    "volume" : NumberLong(12411014)
+}
+{ 
+    "_id" : ObjectId("5c8a988ad44b796a692f4888"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:08:10.000+0000"), 
+    "price" : NumberDecimal("114.6800"), 
+    "volume" : NumberLong(11981837)
+}
+{ 
+    "_id" : ObjectId("5c8a988ad44b796a692f488a"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:08:06.000+0000"), 
+    "price" : NumberDecimal("31.0700"), 
+    "volume" : NumberLong(7798127)
+}
+{ 
+    "_id" : ObjectId("5c8a988ad44b796a692f488c"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:08:10.000+0000"), 
+    "price" : NumberDecimal("360.3900"), 
+    "volume" : NumberLong(3763439)
+}
+{ 
+    "_id" : ObjectId("5c8a988ad44b796a692f488e"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:08:10.000+0000"), 
+    "price" : NumberDecimal("105.3600"), 
+    "volume" : NumberLong(6025413)
+}
+{ 
+    "_id" : ObjectId("5c8a988ad44b796a692f4890"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:08:10.000+0000"), 
+    "price" : NumberDecimal("1695.6300"), 
+    "volume" : NumberLong(1875617)
+}
+{ 
+    "_id" : ObjectId("5c8a988ad44b796a692f4892"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:08:08.000+0000"), 
+    "price" : NumberDecimal("64.0100"), 
+    "volume" : NumberLong(6647835)
+}
+{ 
+    "_id" : ObjectId("5c8a988ad44b796a692f4894"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:08:08.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28111596)
+}
+{ 
+    "_id" : ObjectId("5c8a9891d44b796a692f4897"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:08:16.000+0000"), 
+    "price" : NumberDecimal("1189.7500"), 
+    "volume" : NumberLong(596728)
+}
+{ 
+    "_id" : ObjectId("5c8a9891d44b796a692f4899"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:08:15.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2733777)
+}
+{ 
+    "_id" : ObjectId("5c8a9891d44b796a692f489b"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:08:15.000+0000"), 
+    "price" : NumberDecimal("170.6800"), 
+    "volume" : NumberLong(12415933)
+}
+{ 
+    "_id" : ObjectId("5c8a9891d44b796a692f489d"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:08:16.000+0000"), 
+    "price" : NumberDecimal("114.6800"), 
+    "volume" : NumberLong(11981873)
+}
+{ 
+    "_id" : ObjectId("5c8a9891d44b796a692f48a0"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:08:16.000+0000"), 
+    "price" : NumberDecimal("360.3900"), 
+    "volume" : NumberLong(3763439)
+}
+{ 
+    "_id" : ObjectId("5c8a9891d44b796a692f48a2"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:08:15.000+0000"), 
+    "price" : NumberDecimal("105.3450"), 
+    "volume" : NumberLong(6027504)
+}
+{ 
+    "_id" : ObjectId("5c8a9891d44b796a692f48a4"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:08:16.000+0000"), 
+    "price" : NumberDecimal("1695.6300"), 
+    "volume" : NumberLong(1875617)
+}
+{ 
+    "_id" : ObjectId("5c8a9891d44b796a692f48a6"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:08:16.000+0000"), 
+    "price" : NumberDecimal("64.0050"), 
+    "volume" : NumberLong(6649271)
+}
+{ 
+    "_id" : ObjectId("5c8a9894d44b796a692f48aa"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:08:20.000+0000"), 
+    "price" : NumberDecimal("1189.7500"), 
+    "volume" : NumberLong(596728)
+}
+{ 
+    "_id" : ObjectId("5c8a9894d44b796a692f48ac"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:08:19.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2733777)
+}
+{ 
+    "_id" : ObjectId("5c8a9894d44b796a692f48ae"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:08:20.000+0000"), 
+    "price" : NumberDecimal("170.6800"), 
+    "volume" : NumberLong(12415933)
+}
+{ 
+    "_id" : ObjectId("5c8a9894d44b796a692f48b0"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:08:19.000+0000"), 
+    "price" : NumberDecimal("114.6850"), 
+    "volume" : NumberLong(11981167)
+}
+{ 
+    "_id" : ObjectId("5c8a9894d44b796a692f48b3"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:08:20.000+0000"), 
+    "price" : NumberDecimal("360.4300"), 
+    "volume" : NumberLong(3762904)
+}
+{ 
+    "_id" : ObjectId("5c8a9894d44b796a692f48b5"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:08:20.000+0000"), 
+    "price" : NumberDecimal("105.3450"), 
+    "volume" : NumberLong(6028765)
+}
+{ 
+    "_id" : ObjectId("5c8a9894d44b796a692f48b7"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:08:18.000+0000"), 
+    "price" : NumberDecimal("1695.6500"), 
+    "volume" : NumberLong(1877281)
+}
+{ 
+    "_id" : ObjectId("5c8a9899d44b796a692f48bb"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:08:23.000+0000"), 
+    "price" : NumberDecimal("1189.7500"), 
+    "volume" : NumberLong(596728)
+}
+{ 
+    "_id" : ObjectId("5c8a9899d44b796a692f48bd"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:08:23.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2733777)
+}
+{ 
+    "_id" : ObjectId("5c8a9899d44b796a692f48bf"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:08:22.000+0000"), 
+    "price" : NumberDecimal("170.6800"), 
+    "volume" : NumberLong(12415933)
+}
+{ 
+    "_id" : ObjectId("5c8a9899d44b796a692f48c1"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:08:22.000+0000"), 
+    "price" : NumberDecimal("114.6800"), 
+    "volume" : NumberLong(11984727)
+}
+{ 
+    "_id" : ObjectId("5c8a9899d44b796a692f48c3"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:08:23.000+0000"), 
+    "price" : NumberDecimal("31.0800"), 
+    "volume" : NumberLong(7816955)
+}
+{ 
+    "_id" : ObjectId("5c8a9899d44b796a692f48c5"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:08:24.000+0000"), 
+    "price" : NumberDecimal("360.4300"), 
+    "volume" : NumberLong(3762904)
+}
+{ 
+    "_id" : ObjectId("5c8a9899d44b796a692f48c8"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:08:21.000+0000"), 
+    "price" : NumberDecimal("1695.6500"), 
+    "volume" : NumberLong(1879786)
+}
+{ 
+    "_id" : ObjectId("5c8a98bcd44b796a692f48d4"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:09:00.000+0000"), 
+    "price" : NumberDecimal("1188.9000"), 
+    "volume" : NumberLong(598292)
+}
+{ 
+    "_id" : ObjectId("5c8a98bcd44b796a692f48d6"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:09:00.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2737232)
+}
+{ 
+    "_id" : ObjectId("5c8a98bcd44b796a692f48d8"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:09:00.000+0000"), 
+    "price" : NumberDecimal("170.7900"), 
+    "volume" : NumberLong(12424821)
+}
+{ 
+    "_id" : ObjectId("5c8a98bcd44b796a692f48da"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:09:00.000+0000"), 
+    "price" : NumberDecimal("114.7000"), 
+    "volume" : NumberLong(11995160)
+}
+{ 
+    "_id" : ObjectId("5c8a98bcd44b796a692f48dc"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:08:53.000+0000"), 
+    "price" : NumberDecimal("31.0700"), 
+    "volume" : NumberLong(7833495)
+}
+{ 
+    "_id" : ObjectId("5c8a98bcd44b796a692f48de"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:09:00.000+0000"), 
+    "price" : NumberDecimal("360.5300"), 
+    "volume" : NumberLong(3767468)
+}
+{ 
+    "_id" : ObjectId("5c8a98bcd44b796a692f48e0"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:09:00.000+0000"), 
+    "price" : NumberDecimal("105.3250"), 
+    "volume" : NumberLong(6036304)
+}
+{ 
+    "_id" : ObjectId("5c8a98bcd44b796a692f48e2"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:09:00.000+0000"), 
+    "price" : NumberDecimal("1695.6500"), 
+    "volume" : NumberLong(1881041)
+}
+{ 
+    "_id" : ObjectId("5c8a98bcd44b796a692f48e4"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:09:00.000+0000"), 
+    "price" : NumberDecimal("63.9850"), 
+    "volume" : NumberLong(6667923)
+}
+{ 
+    "_id" : ObjectId("5c8a98bcd44b796a692f48e6"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:08:45.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28129409)
+}
+{ 
+    "_id" : ObjectId("5c8a98c1d44b796a692f48e8"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:09:04.000+0000"), 
+    "price" : NumberDecimal("1188.9000"), 
+    "volume" : NumberLong(598478)
+}
+{ 
+    "_id" : ObjectId("5c8a98c1d44b796a692f48eb"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:09:03.000+0000"), 
+    "price" : NumberDecimal("170.7900"), 
+    "volume" : NumberLong(12424821)
+}
+{ 
+    "_id" : ObjectId("5c8a98c1d44b796a692f48ed"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:09:01.000+0000"), 
+    "price" : NumberDecimal("114.7000"), 
+    "volume" : NumberLong(11995160)
+}
+{ 
+    "_id" : ObjectId("5c8a98c1d44b796a692f48f0"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:09:03.000+0000"), 
+    "price" : NumberDecimal("360.5300"), 
+    "volume" : NumberLong(3767468)
+}
+{ 
+    "_id" : ObjectId("5c8a98c6d44b796a692f48f8"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:09:10.000+0000"), 
+    "price" : NumberDecimal("1188.5500"), 
+    "volume" : NumberLong(598609)
+}
+{ 
+    "_id" : ObjectId("5c8a98c6d44b796a692f48fa"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:09:09.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2738534)
+}
+{ 
+    "_id" : ObjectId("5c8a98c6d44b796a692f48fc"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:09:09.000+0000"), 
+    "price" : NumberDecimal("170.7900"), 
+    "volume" : NumberLong(12424821)
+}
+{ 
+    "_id" : ObjectId("5c8a98c6d44b796a692f48fe"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:09:10.000+0000"), 
+    "price" : NumberDecimal("114.7000"), 
+    "volume" : NumberLong(11997331)
+}
+{ 
+    "_id" : ObjectId("5c8a98c6d44b796a692f4900"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:09:07.000+0000"), 
+    "price" : NumberDecimal("31.0700"), 
+    "volume" : NumberLong(7833495)
+}
+{ 
+    "_id" : ObjectId("5c8a98c6d44b796a692f4902"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:09:09.000+0000"), 
+    "price" : NumberDecimal("360.5300"), 
+    "volume" : NumberLong(3769032)
+}
+{ 
+    "_id" : ObjectId("5c8a98c6d44b796a692f4904"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:09:10.000+0000"), 
+    "price" : NumberDecimal("105.3200"), 
+    "volume" : NumberLong(6039166)
+}
+{ 
+    "_id" : ObjectId("5c8a98c6d44b796a692f4906"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:09:08.000+0000"), 
+    "price" : NumberDecimal("1695.6500"), 
+    "volume" : NumberLong(1884816)
+}
+{ 
+    "_id" : ObjectId("5c8a98c6d44b796a692f4908"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:09:10.000+0000"), 
+    "price" : NumberDecimal("63.9700"), 
+    "volume" : NumberLong(6674813)
+}
+{ 
+    "_id" : ObjectId("5c8a98c6d44b796a692f490a"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:09:09.000+0000"), 
+    "price" : NumberDecimal("29.4950"), 
+    "volume" : NumberLong(28139635)
+}
+{ 
+    "_id" : ObjectId("5c8a98ccd44b796a692f490c"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:09:16.000+0000"), 
+    "price" : NumberDecimal("1188.5500"), 
+    "volume" : NumberLong(598794)
+}
+{ 
+    "_id" : ObjectId("5c8a98ccd44b796a692f490e"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:09:10.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2738534)
+}
+{ 
+    "_id" : ObjectId("5c8a98ccd44b796a692f4910"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:09:13.000+0000"), 
+    "price" : NumberDecimal("170.7600"), 
+    "volume" : NumberLong(12424861)
+}
+{ 
+    "_id" : ObjectId("5c8a98ccd44b796a692f4912"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:09:16.000+0000"), 
+    "price" : NumberDecimal("114.7050"), 
+    "volume" : NumberLong(12000889)
+}
+{ 
+    "_id" : ObjectId("5c8a98ccd44b796a692f4914"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:09:15.000+0000"), 
+    "price" : NumberDecimal("31.0700"), 
+    "volume" : NumberLong(7838931)
+}
+{ 
+    "_id" : ObjectId("5c8a98ccd44b796a692f4916"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:09:11.000+0000"), 
+    "price" : NumberDecimal("360.5300"), 
+    "volume" : NumberLong(3769032)
+}
+{ 
+    "_id" : ObjectId("5c8a98ccd44b796a692f4918"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:09:15.000+0000"), 
+    "price" : NumberDecimal("105.3200"), 
+    "volume" : NumberLong(6039166)
+}
+{ 
+    "_id" : ObjectId("5c8a98ccd44b796a692f491a"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:09:12.000+0000"), 
+    "price" : NumberDecimal("1695.5000"), 
+    "volume" : NumberLong(1883944)
+}
+{ 
+    "_id" : ObjectId("5c8a98ccd44b796a692f491c"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:09:14.000+0000"), 
+    "price" : NumberDecimal("63.9700"), 
+    "volume" : NumberLong(6674813)
+}
+{ 
+    "_id" : ObjectId("5c8a98ccd44b796a692f491e"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:09:15.000+0000"), 
+    "price" : NumberDecimal("29.4900"), 
+    "volume" : NumberLong(28176082)
+}
+{ 
+    "_id" : ObjectId("5c8a98d0d44b796a692f4922"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:09:20.000+0000"), 
+    "price" : NumberDecimal("1188.5500"), 
+    "volume" : NumberLong(598794)
+}
+{ 
+    "_id" : ObjectId("5c8a98d0d44b796a692f4927"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:09:18.000+0000"), 
+    "price" : NumberDecimal("31.0700"), 
+    "volume" : NumberLong(7838931)
+}
+{ 
+    "_id" : ObjectId("5c8a98d0d44b796a692f492a"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:09:20.000+0000"), 
+    "price" : NumberDecimal("105.3200"), 
+    "volume" : NumberLong(6039166)
+}
+{ 
+    "_id" : ObjectId("5c8a98d0d44b796a692f492d"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:09:19.000+0000"), 
+    "price" : NumberDecimal("63.9700"), 
+    "volume" : NumberLong(6674813)
+}
+{ 
+    "_id" : ObjectId("5c8a98d0d44b796a692f492f"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:09:20.000+0000"), 
+    "price" : NumberDecimal("29.4900"), 
+    "volume" : NumberLong(28188924)
+}
+{ 
+    "_id" : ObjectId("5c8a98d5d44b796a692f4931"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:09:23.000+0000"), 
+    "price" : NumberDecimal("1188.6500"), 
+    "volume" : NumberLong(599168)
+}
+{ 
+    "_id" : ObjectId("5c8a98d5d44b796a692f4935"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:09:23.000+0000"), 
+    "price" : NumberDecimal("114.7100"), 
+    "volume" : NumberLong(12003733)
+}
+{ 
+    "_id" : ObjectId("5c8a98d5d44b796a692f4937"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:09:21.000+0000"), 
+    "price" : NumberDecimal("31.0700"), 
+    "volume" : NumberLong(7838931)
+}
+{ 
+    "_id" : ObjectId("5c8a98d5d44b796a692f4939"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:09:24.000+0000"), 
+    "price" : NumberDecimal("360.5700"), 
+    "volume" : NumberLong(3769511)
+}
+{ 
+    "_id" : ObjectId("5c8a98d5d44b796a692f493b"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:09:25.000+0000"), 
+    "price" : NumberDecimal("105.3200"), 
+    "volume" : NumberLong(6040431)
+}
+{ 
+    "_id" : ObjectId("5c8a98d5d44b796a692f493d"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:09:24.000+0000"), 
+    "price" : NumberDecimal("1695.5000"), 
+    "volume" : NumberLong(1885200)
+}
+{ 
+    "_id" : ObjectId("5c8a98d5d44b796a692f493f"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:09:23.000+0000"), 
+    "price" : NumberDecimal("63.9800"), 
+    "volume" : NumberLong(6678949)
+}
+{ 
+    "_id" : ObjectId("5c8a98d5d44b796a692f4941"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:09:25.000+0000"), 
+    "price" : NumberDecimal("29.4900"), 
+    "volume" : NumberLong(28188924)
+}
+{ 
+    "_id" : ObjectId("5c8a98f8d44b796a692f494b"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:10:00.000+0000"), 
+    "price" : NumberDecimal("1189.0300"), 
+    "volume" : NumberLong(600339)
+}
+{ 
+    "_id" : ObjectId("5c8a98f8d44b796a692f494d"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:09:56.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2742448)
+}
+{ 
+    "_id" : ObjectId("5c8a98f8d44b796a692f494f"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:09:54.000+0000"), 
+    "price" : NumberDecimal("170.7500"), 
+    "volume" : NumberLong(12433756)
+}
+{ 
+    "_id" : ObjectId("5c8a98f8d44b796a692f4951"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:10:00.000+0000"), 
+    "price" : NumberDecimal("114.7300"), 
+    "volume" : NumberLong(12018392)
+}
+{ 
+    "_id" : ObjectId("5c8a98f8d44b796a692f4953"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:09:28.000+0000"), 
+    "price" : NumberDecimal("31.0700"), 
+    "volume" : NumberLong(7838931)
+}
+{ 
+    "_id" : ObjectId("5c8a98f8d44b796a692f4955"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:09:45.000+0000"), 
+    "price" : NumberDecimal("360.5700"), 
+    "volume" : NumberLong(3774201)
+}
+{ 
+    "_id" : ObjectId("5c8a98f8d44b796a692f4957"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:09:58.000+0000"), 
+    "price" : NumberDecimal("105.3150"), 
+    "volume" : NumberLong(6047151)
+}
+{ 
+    "_id" : ObjectId("5c8a98f8d44b796a692f4959"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:09:51.000+0000"), 
+    "price" : NumberDecimal("1695.7000"), 
+    "volume" : NumberLong(1886635)
+}
+{ 
+    "_id" : ObjectId("5c8a98f8d44b796a692f495b"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:09:55.000+0000"), 
+    "price" : NumberDecimal("63.9950"), 
+    "volume" : NumberLong(6685802)
+}
+{ 
+    "_id" : ObjectId("5c8a98f8d44b796a692f495d"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:09:58.000+0000"), 
+    "price" : NumberDecimal("29.4900"), 
+    "volume" : NumberLong(28188924)
+}
+{ 
+    "_id" : ObjectId("5c8a98fed44b796a692f495f"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:10:05.000+0000"), 
+    "price" : NumberDecimal("1189.0300"), 
+    "volume" : NumberLong(600339)
+}
+{ 
+    "_id" : ObjectId("5c8a98fed44b796a692f4962"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:10:04.000+0000"), 
+    "price" : NumberDecimal("170.7750"), 
+    "volume" : NumberLong(12437723)
+}
+{ 
+    "_id" : ObjectId("5c8a98fed44b796a692f4964"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:10:05.000+0000"), 
+    "price" : NumberDecimal("114.7300"), 
+    "volume" : NumberLong(12018392)
+}
+{ 
+    "_id" : ObjectId("5c8a98fed44b796a692f4967"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:10:05.000+0000"), 
+    "price" : NumberDecimal("360.5700"), 
+    "volume" : NumberLong(3777334)
+}
+{ 
+    "_id" : ObjectId("5c8a98fed44b796a692f4969"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:10:02.000+0000"), 
+    "price" : NumberDecimal("105.3400"), 
+    "volume" : NumberLong(6050513)
+}
+{ 
+    "_id" : ObjectId("5c8a98fed44b796a692f496b"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:10:04.000+0000"), 
+    "price" : NumberDecimal("1695.7000"), 
+    "volume" : NumberLong(1886635)
+}
+{ 
+    "_id" : ObjectId("5c8a98fed44b796a692f496d"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:10:04.000+0000"), 
+    "price" : NumberDecimal("64.0000"), 
+    "volume" : NumberLong(6692691)
+}
+{ 
+    "_id" : ObjectId("5c8a9902d44b796a692f4972"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:10:10.000+0000"), 
+    "price" : NumberDecimal("1189.0300"), 
+    "volume" : NumberLong(600339)
+}
+{ 
+    "_id" : ObjectId("5c8a9902d44b796a692f4974"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:10:10.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2745064)
+}
+{ 
+    "_id" : ObjectId("5c8a9902d44b796a692f4976"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:10:10.000+0000"), 
+    "price" : NumberDecimal("170.7700"), 
+    "volume" : NumberLong(12438199)
+}
+{ 
+    "_id" : ObjectId("5c8a9902d44b796a692f4978"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:10:10.000+0000"), 
+    "price" : NumberDecimal("114.7250"), 
+    "volume" : NumberLong(12021479)
+}
+{ 
+    "_id" : ObjectId("5c8a9902d44b796a692f497b"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:10:10.000+0000"), 
+    "price" : NumberDecimal("360.5700"), 
+    "volume" : NumberLong(3777334)
+}
+{ 
+    "_id" : ObjectId("5c8a9902d44b796a692f497d"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:10:10.000+0000"), 
+    "price" : NumberDecimal("105.3400"), 
+    "volume" : NumberLong(6051781)
+}
+{ 
+    "_id" : ObjectId("5c8a9902d44b796a692f497f"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:10:10.000+0000"), 
+    "price" : NumberDecimal("1695.7000"), 
+    "volume" : NumberLong(1887890)
+}
+{ 
+    "_id" : ObjectId("5c8a9902d44b796a692f4981"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:10:10.000+0000"), 
+    "price" : NumberDecimal("63.9950"), 
+    "volume" : NumberLong(6696746)
+}
+{ 
+    "_id" : ObjectId("5c8a9902d44b796a692f4983"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:10:10.000+0000"), 
+    "price" : NumberDecimal("29.4800"), 
+    "volume" : NumberLong(28198040)
+}
+{ 
+    "_id" : ObjectId("5c8a9908d44b796a692f4985"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:10:14.000+0000"), 
+    "price" : NumberDecimal("1189.0300"), 
+    "volume" : NumberLong(600339)
+}
+{ 
+    "_id" : ObjectId("5c8a9908d44b796a692f4987"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:10:16.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2746374)
+}
+{ 
+    "_id" : ObjectId("5c8a9908d44b796a692f4989"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:10:15.000+0000"), 
+    "price" : NumberDecimal("170.7300"), 
+    "volume" : NumberLong(12438318)
+}
+{ 
+    "_id" : ObjectId("5c8a9908d44b796a692f498b"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:10:16.000+0000"), 
+    "price" : NumberDecimal("114.7100"), 
+    "volume" : NumberLong(12020113)
+}
+{ 
+    "_id" : ObjectId("5c8a9908d44b796a692f498d"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:10:15.000+0000"), 
+    "price" : NumberDecimal("31.0700"), 
+    "volume" : NumberLong(7866225)
+}
+{ 
+    "_id" : ObjectId("5c8a9908d44b796a692f498f"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:10:13.000+0000"), 
+    "price" : NumberDecimal("360.5700"), 
+    "volume" : NumberLong(3777334)
+}
+{ 
+    "_id" : ObjectId("5c8a9908d44b796a692f4991"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:10:13.000+0000"), 
+    "price" : NumberDecimal("105.3400"), 
+    "volume" : NumberLong(6053049)
+}
+{ 
+    "_id" : ObjectId("5c8a9908d44b796a692f4993"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:10:16.000+0000"), 
+    "price" : NumberDecimal("1695.2200"), 
+    "volume" : NumberLong(1888196)
+}
+{ 
+    "_id" : ObjectId("5c8a9908d44b796a692f4995"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:10:16.000+0000"), 
+    "price" : NumberDecimal("63.9850"), 
+    "volume" : NumberLong(6698106)
+}
+{ 
+    "_id" : ObjectId("5c8a9908d44b796a692f4997"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:10:16.000+0000"), 
+    "price" : NumberDecimal("29.4800"), 
+    "volume" : NumberLong(28210898)
+}
+{ 
+    "_id" : ObjectId("5c8a990cd44b796a692f499c"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:10:19.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2746374)
+}
+{ 
+    "_id" : ObjectId("5c8a990cd44b796a692f499e"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:10:20.000+0000"), 
+    "price" : NumberDecimal("170.7300"), 
+    "volume" : NumberLong(12438318)
+}
+{ 
+    "_id" : ObjectId("5c8a990cd44b796a692f49a0"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:10:19.000+0000"), 
+    "price" : NumberDecimal("114.7100"), 
+    "volume" : NumberLong(12020113)
+}
+{ 
+    "_id" : ObjectId("5c8a990cd44b796a692f49a3"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:10:17.000+0000"), 
+    "price" : NumberDecimal("360.5700"), 
+    "volume" : NumberLong(3777334)
+}
+{ 
+    "_id" : ObjectId("5c8a990cd44b796a692f49a5"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:10:20.000+0000"), 
+    "price" : NumberDecimal("105.3400"), 
+    "volume" : NumberLong(6053049)
+}
+{ 
+    "_id" : ObjectId("5c8a990cd44b796a692f49a7"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:10:19.000+0000"), 
+    "price" : NumberDecimal("1695.2200"), 
+    "volume" : NumberLong(1889449)
+}
+{ 
+    "_id" : ObjectId("5c8a990cd44b796a692f49a9"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:10:20.000+0000"), 
+    "price" : NumberDecimal("63.9850"), 
+    "volume" : NumberLong(6700864)
+}
+{ 
+    "_id" : ObjectId("5c8a9912d44b796a692f49ad"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:10:25.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2746374)
+}
+{ 
+    "_id" : ObjectId("5c8a9912d44b796a692f49af"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:10:23.000+0000"), 
+    "price" : NumberDecimal("170.7300"), 
+    "volume" : NumberLong(12438318)
+}
+{ 
+    "_id" : ObjectId("5c8a9912d44b796a692f49b1"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:10:25.000+0000"), 
+    "price" : NumberDecimal("114.6900"), 
+    "volume" : NumberLong(12030547)
+}
+{ 
+    "_id" : ObjectId("5c8a9912d44b796a692f49b5"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:10:21.000+0000"), 
+    "price" : NumberDecimal("105.3250"), 
+    "volume" : NumberLong(6052608)
+}
+{ 
+    "_id" : ObjectId("5c8a9912d44b796a692f49b7"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:10:25.000+0000"), 
+    "price" : NumberDecimal("1695.2200"), 
+    "volume" : NumberLong(1889449)
+}
+{ 
+    "_id" : ObjectId("5c8a9912d44b796a692f49b9"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:10:25.000+0000"), 
+    "price" : NumberDecimal("63.9800"), 
+    "volume" : NumberLong(6700822)
+}
+{ 
+    "_id" : ObjectId("5c8a9912d44b796a692f49bb"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:10:23.000+0000"), 
+    "price" : NumberDecimal("29.4800"), 
+    "volume" : NumberLong(28210898)
+}
+{ 
+    "_id" : ObjectId("5c8a9934d44b796a692f49c7"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:11:00.000+0000"), 
+    "price" : NumberDecimal("1189.0300"), 
+    "volume" : NumberLong(601823)
+}
+{ 
+    "_id" : ObjectId("5c8a9934d44b796a692f49c9"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:11:00.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2747684)
+}
+{ 
+    "_id" : ObjectId("5c8a9934d44b796a692f49cb"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:10:59.000+0000"), 
+    "price" : NumberDecimal("170.6300"), 
+    "volume" : NumberLong(12451309)
+}
+{ 
+    "_id" : ObjectId("5c8a9934d44b796a692f49cd"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:11:00.000+0000"), 
+    "price" : NumberDecimal("114.6700"), 
+    "volume" : NumberLong(12050800)
+}
+{ 
+    "_id" : ObjectId("5c8a9934d44b796a692f49cf"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:10:52.000+0000"), 
+    "price" : NumberDecimal("31.0550"), 
+    "volume" : NumberLong(7894448)
+}
+{ 
+    "_id" : ObjectId("5c8a9934d44b796a692f49d1"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:11:00.000+0000"), 
+    "price" : NumberDecimal("360.6300"), 
+    "volume" : NumberLong(3788215)
+}
+{ 
+    "_id" : ObjectId("5c8a9934d44b796a692f49d3"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:11:00.000+0000"), 
+    "price" : NumberDecimal("105.2700"), 
+    "volume" : NumberLong(6065730)
+}
+{ 
+    "_id" : ObjectId("5c8a9934d44b796a692f49d5"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:10:59.000+0000"), 
+    "price" : NumberDecimal("1694.9000"), 
+    "volume" : NumberLong(1891065)
+}
+{ 
+    "_id" : ObjectId("5c8a9934d44b796a692f49d7"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:11:00.000+0000"), 
+    "price" : NumberDecimal("63.9350"), 
+    "volume" : NumberLong(6717276)
+}
+{ 
+    "_id" : ObjectId("5c8a9934d44b796a692f49d9"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:11:00.000+0000"), 
+    "price" : NumberDecimal("29.4650"), 
+    "volume" : NumberLong(28325844)
+}
+{ 
+    "_id" : ObjectId("5c8a9939d44b796a692f49db"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:11:04.000+0000"), 
+    "price" : NumberDecimal("1189.0300"), 
+    "volume" : NumberLong(601823)
+}
+{ 
+    "_id" : ObjectId("5c8a9939d44b796a692f49dd"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:11:05.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2747684)
+}
+{ 
+    "_id" : ObjectId("5c8a9939d44b796a692f49df"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:11:05.000+0000"), 
+    "price" : NumberDecimal("170.6300"), 
+    "volume" : NumberLong(12451309)
+}
+{ 
+    "_id" : ObjectId("5c8a9939d44b796a692f49e1"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:11:04.000+0000"), 
+    "price" : NumberDecimal("114.6700"), 
+    "volume" : NumberLong(12050800)
+}
+{ 
+    "_id" : ObjectId("5c8a9939d44b796a692f49e3"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:11:05.000+0000"), 
+    "price" : NumberDecimal("31.0550"), 
+    "volume" : NumberLong(7904498)
+}
+{ 
+    "_id" : ObjectId("5c8a9939d44b796a692f49e5"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:11:05.000+0000"), 
+    "price" : NumberDecimal("360.6300"), 
+    "volume" : NumberLong(3788215)
+}
+{ 
+    "_id" : ObjectId("5c8a9939d44b796a692f49e7"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:11:04.000+0000"), 
+    "price" : NumberDecimal("105.2600"), 
+    "volume" : NumberLong(6067379)
+}
+{ 
+    "_id" : ObjectId("5c8a9939d44b796a692f49ea"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:11:05.000+0000"), 
+    "price" : NumberDecimal("63.9250"), 
+    "volume" : NumberLong(6715804)
+}
+{ 
+    "_id" : ObjectId("5c8a9939d44b796a692f49ec"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:11:04.000+0000"), 
+    "price" : NumberDecimal("29.4650"), 
+    "volume" : NumberLong(28325844)
+}
+{ 
+    "_id" : ObjectId("5c8a9970d44b796a692f4bed"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:11:44.000+0000"), 
+    "price" : NumberDecimal("1189.0300"), 
+    "volume" : NumberLong(602195)
+}
+{ 
+    "_id" : ObjectId("5c8a9970d44b796a692f4bef"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:11:58.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2747684)
+}
+{ 
+    "_id" : ObjectId("5c8a9970d44b796a692f4bf1"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:11:50.000+0000"), 
+    "price" : NumberDecimal("170.6150"), 
+    "volume" : NumberLong(12456609)
+}
+{ 
+    "_id" : ObjectId("5c8a9970d44b796a692f4bf3"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:12:00.000+0000"), 
+    "price" : NumberDecimal("114.6850"), 
+    "volume" : NumberLong(12065776)
+}
+{ 
+    "_id" : ObjectId("5c8a9970d44b796a692f4bf5"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:11:54.000+0000"), 
+    "price" : NumberDecimal("31.0600"), 
+    "volume" : NumberLong(7905926)
+}
+{ 
+    "_id" : ObjectId("5c8a9970d44b796a692f4bf7"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-14T18:11:48.000+0000"), 
+    "price" : NumberDecimal("360.6300"), 
+    "volume" : NumberLong(3789788)
+}
+{ 
+    "_id" : ObjectId("5c8a9970d44b796a692f4bf9"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:11:56.000+0000"), 
+    "price" : NumberDecimal("105.2750"), 
+    "volume" : NumberLong(6076210)
+}
+{ 
+    "_id" : ObjectId("5c8a9970d44b796a692f4bfb"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:11:48.000+0000"), 
+    "price" : NumberDecimal("1694.7700"), 
+    "volume" : NumberLong(1892582)
+}
+{ 
+    "_id" : ObjectId("5c8a9970d44b796a692f4bfd"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:12:00.000+0000"), 
+    "price" : NumberDecimal("63.9350"), 
+    "volume" : NumberLong(6725359)
+}
+{ 
+    "_id" : ObjectId("5c8a9970d44b796a692f4bff"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-14T18:11:58.000+0000"), 
+    "price" : NumberDecimal("29.4650"), 
+    "volume" : NumberLong(28347612)
+}
+{ 
+    "_id" : ObjectId("5c8a9975d44b796a692f4c03"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:12:02.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2747684)
+}
+{ 
+    "_id" : ObjectId("5c8a9975d44b796a692f4c05"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:12:05.000+0000"), 
+    "price" : NumberDecimal("170.6150"), 
+    "volume" : NumberLong(12456609)
+}
+{ 
+    "_id" : ObjectId("5c8a9975d44b796a692f4c07"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:12:03.000+0000"), 
+    "price" : NumberDecimal("114.6850"), 
+    "volume" : NumberLong(12065776)
+}
+{ 
+    "_id" : ObjectId("5c8a9975d44b796a692f4c09"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-14T18:12:05.000+0000"), 
+    "price" : NumberDecimal("31.0600"), 
+    "volume" : NumberLong(7911315)
+}
+{ 
+    "_id" : ObjectId("5c8a9975d44b796a692f4c0c"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:12:02.000+0000"), 
+    "price" : NumberDecimal("105.2750"), 
+    "volume" : NumberLong(6077484)
+}
+{ 
+    "_id" : ObjectId("5c8a997ad44b796a692f4c13"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:12:08.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2748997)
+}
+{ 
+    "_id" : ObjectId("5c8a997ad44b796a692f4c15"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:12:07.000+0000"), 
+    "price" : NumberDecimal("170.6150"), 
+    "volume" : NumberLong(12461556)
+}
+{ 
+    "_id" : ObjectId("5c8a997ad44b796a692f4c17"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:12:07.000+0000"), 
+    "price" : NumberDecimal("114.6750"), 
+    "volume" : NumberLong(12065574)
+}
+{ 
+    "_id" : ObjectId("5c8a997ad44b796a692f4c1b"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:12:07.000+0000"), 
+    "price" : NumberDecimal("105.2750"), 
+    "volume" : NumberLong(6077484)
+}
+{ 
+    "_id" : ObjectId("5c8a997ad44b796a692f4c1d"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:12:10.000+0000"), 
+    "price" : NumberDecimal("1694.7700"), 
+    "volume" : NumberLong(1893836)
+}
+{ 
+    "_id" : ObjectId("5c8a997ad44b796a692f4c1f"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:12:09.000+0000"), 
+    "price" : NumberDecimal("63.9350"), 
+    "volume" : NumberLong(6725359)
+}
+{ 
+    "_id" : ObjectId("5c8a9981d44b796a692f4c23"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-14T18:12:11.000+0000"), 
+    "price" : NumberDecimal("1189.0300"), 
+    "volume" : NumberLong(602381)
+}
+{ 
+    "_id" : ObjectId("5c8a9981d44b796a692f4c25"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-14T18:12:15.000+0000"), 
+    "price" : NumberDecimal("73.4500"), 
+    "volume" : NumberLong(2748997)
+}
+{ 
+    "_id" : ObjectId("5c8a9981d44b796a692f4c27"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-14T18:12:14.000+0000"), 
+    "price" : NumberDecimal("170.6150"), 
+    "volume" : NumberLong(12461556)
+}
+{ 
+    "_id" : ObjectId("5c8a9981d44b796a692f4c29"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-14T18:12:11.000+0000"), 
+    "price" : NumberDecimal("114.6750"), 
+    "volume" : NumberLong(12065574)
+}
+{ 
+    "_id" : ObjectId("5c8a9981d44b796a692f4c2d"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-14T18:12:15.000+0000"), 
+    "price" : NumberDecimal("105.2750"), 
+    "volume" : NumberLong(6078906)
+}
+{ 
+    "_id" : ObjectId("5c8a9981d44b796a692f4c2f"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-14T18:12:11.000+0000"), 
+    "price" : NumberDecimal("1694.7700"), 
+    "volume" : NumberLong(1893836)
+}
+{ 
+    "_id" : ObjectId("5c8a9981d44b796a692f4c31"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-14T18:12:11.000+0000"), 
+    "price" : NumberDecimal("63.9350"), 
+    "volume" : NumberLong(6726702)
+}
+{ 
+    "_id" : ObjectId("5c8c08f2d44b796a692f4e7b"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-15T20:00:47.000+0000"), 
+    "price" : NumberDecimal("1184.6000"), 
+    "volume" : NumberLong(2257799)
+}
+{ 
+    "_id" : ObjectId("5c8c08f2d44b796a692f4e7d"), 
+    "symbol" : "AABA", 
+    "timestamp" : ISODate("2019-03-15T20:00:21.000+0000"), 
+    "price" : NumberDecimal("73.7000"), 
+    "volume" : NumberLong(5629568)
+}
+{ 
+    "_id" : ObjectId("5c8c08f2d44b796a692f4e7f"), 
+    "symbol" : "FB", 
+    "timestamp" : ISODate("2019-03-15T20:14:11.000+0000"), 
+    "price" : NumberDecimal("166.0300"), 
+    "volume" : NumberLong(36767996)
+}
+{ 
+    "_id" : ObjectId("5c8c08f2d44b796a692f4e81"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-15T20:18:39.000+0000"), 
+    "price" : NumberDecimal("115.6800"), 
+    "volume" : NumberLong(53791324)
+}
+{ 
+    "_id" : ObjectId("5c8c08f2d44b796a692f4e83"), 
+    "symbol" : "TWTR", 
+    "timestamp" : ISODate("2019-03-15T20:14:57.000+0000"), 
+    "price" : NumberDecimal("31.2450"), 
+    "volume" : NumberLong(17332631)
+}
+{ 
+    "_id" : ObjectId("5c8c08f2d44b796a692f4e85"), 
+    "symbol" : "NFLX", 
+    "timestamp" : ISODate("2019-03-15T20:11:29.000+0000"), 
+    "price" : NumberDecimal("361.5000"), 
+    "volume" : NumberLong(8417273)
+}
+{ 
+    "_id" : ObjectId("5c8c08f2d44b796a692f4e87"), 
+    "symbol" : "JPM", 
+    "timestamp" : ISODate("2019-03-15T20:15:08.000+0000"), 
+    "price" : NumberDecimal("106.2000"), 
+    "volume" : NumberLong(24492274)
+}
+{ 
+    "_id" : ObjectId("5c8c08f2d44b796a692f4e89"), 
+    "symbol" : "AMZN", 
+    "timestamp" : ISODate("2019-03-15T20:00:46.000+0000"), 
+    "price" : NumberDecimal("1710.7600"), 
+    "volume" : NumberLong(7185103)
+}
+{ 
+    "_id" : ObjectId("5c8c08f2d44b796a692f4e8b"), 
+    "symbol" : "C", 
+    "timestamp" : ISODate("2019-03-15T20:19:45.000+0000"), 
+    "price" : NumberDecimal("65.1750"), 
+    "volume" : NumberLong(36441866)
+}
+{ 
+    "_id" : ObjectId("5c8c08f2d44b796a692f4e8d"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-15T20:18:12.000+0000"), 
+    "price" : NumberDecimal("29.2800"), 
+    "volume" : NumberLong(81522888)
+}
+{ 
+    "_id" : ObjectId("5c8c0be5d44b796a692f4f49"), 
+    "symbol" : "GOOG", 
+    "timestamp" : ISODate("2019-03-15T20:22:34.000+0000"), 
+    "price" : NumberDecimal("1184.6000"), 
+    "volume" : NumberLong(2455819)
+}
+{ 
+    "_id" : ObjectId("5c8c0be5d44b796a692f4f4d"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-15T20:31:16.000+0000"), 
+    "price" : NumberDecimal("115.6800"), 
+    "volume" : NumberLong(53914416)
+}
+{ 
+    "_id" : ObjectId("5c8c0be5d44b796a692f4f54"), 
+    "symbol" : "BAC", 
+    "timestamp" : ISODate("2019-03-15T20:29:27.000+0000"), 
+    "price" : NumberDecimal("29.2800"), 
+    "volume" : NumberLong(81651778)
+}
+{ 
+    "_id" : ObjectId("5c8c0c0dd44b796a692f4fa7"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-15T20:33:13.000+0000"), 
+    "price" : NumberDecimal("115.6800"), 
+    "volume" : NumberLong(53996791)
+}
+{ 
+    "_id" : ObjectId("5c8c0c3ad44b796a692f4fda"), 
+    "symbol" : "MSFT", 
+    "timestamp" : ISODate("2019-03-15T20:33:31.000+0000"), 
+    "price" : NumberDecimal("115.6800"), 
+    "volume" : NumberLong(53996791)
+}
