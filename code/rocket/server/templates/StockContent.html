@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)https://getbootstrap.com/docs/4.0/examples/dashboard/ -->
+<html lang="en" class="gr__getbootstrap_com">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!--<link rel="icon" href="https://getbootstrap.com/favicon.ico">-->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <title>ROCKET</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css"
+          integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static', filename='css/dashboard.css') }}" rel="stylesheet">
+
+    <!--share.js-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/share.min.css') }}">
+    <script src="{{ url_for('static', filename='js/social-share.min.js') }}"></script>
+
+    <style type="text/css">/* Chart.js */
+    @-webkit-keyframes chartjs-render-animation {
+        from {
+            opacity: 0.99
+        }
+        to {
+            opacity: 1
+        }
+    }
+
+    @keyframes chartjs-render-animation {
+        from {
+            opacity: 0.99
+        }
+        to {
+            opacity: 1
+        }
+    }</style>
+
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/stock_content.css') }}">
+
+    <script src="https://cdn.anychart.com/releases/8.2.1/js/anychart-bundle.min.js"></script>
+
+</head>
+
+
+<body data-gr-c-s-loaded="true">
+
+<div class="container-fluid">
+    <div class="row">
+        <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+            {#<div class="sidebar-sticky">
+                <ul id="left_sidebar_ul" class="nav flex-column" style="padding-up: 36px">
+                    <!--左边的sidebar-->
+                </ul>
+            </div>#}
+
+            <div class="sidebar-sticky" style="margin:10px">
+                <ul id="left_sidebar" class="nav flex-column" style="padding-up: 36px">
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            10-day High Price
+                            <span id="High" style="float:right;">
+                                0
+                            </span>
+                        </p>
+                    </li>
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            1-year Average Price
+                            <span id="Avg" style="float:right;">
+                                0
+                            </span>
+                        </p>
+                    </li>
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            1-year Low Price
+                            <span id="Low" style="float:right;">
+                                0
+                            </span>
+                        </p>
+                    </li>
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            Lower Stocks
+                            <span id="Loweravg" style="float:right;">
+                                none
+                            </span>
+                        </p>
+                    </li>
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            Investment Advice
+                            <span id="Advice" style="float:right;">
+                                0
+                            </span>
+                        </p>
+                    </li>
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            Long-term Bayesian
+                            <span id="long_bayes" style="float:right;">
+                                0
+                            </span>
+                        </p>
+                    </li>
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            Long-term SVR
+                            <span id="long_svr" style="float:right;">
+                                0
+                            </span>
+                        </p>
+                    </li>
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            Long-term DNN
+                            <span id="long_ann" style="float:right;">
+                                0
+                            </span>
+                        </p>
+                    </li>
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            Short-term Bayesian
+                            <span id="short_bayes" style="float:right;">
+                                0
+                            </span>
+                        </p>
+                    </li>
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            Short-term SVR
+                            <span id="short_svr" style="float:right;">
+                                0
+                            </span>
+                        </p>
+                    </li>
+                    <li class="nav-item real_time_price_nav">
+                        <p style="text-align:left;color:dimgray;font-size:18px">
+                            Short-term DNN
+                            <span id="short_ann" style="float:right;">
+                                0
+                            </span>
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <main role="main" class="col-md-8 ml-sm-auto col-lg-10 pt-3 px-4">
+            <div class="chartjs-size-monitor"
+                 style="position: absolute; left: 0; top: 0; right: 0; bottom: 0; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;">
+                <div class="chartjs-size-monitor-expand"
+                     style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                    <div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div>
+                </div>
+                <div class="chartjs-size-monitor-shrink"
+                     style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;">
+                    <div style="position:absolute;width:100%;height:100%;left:0; top:0"></div>
+                </div>
+            </div>
+            <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
+
+                <div class="btn-toolbar mb-2 mb-md-0">
+
+                    <div class="btn-group">
+                      <a class="btn dropdown-toggle" data-toggle="dropdown" href="#" style="font-size:22px">
+                        Select Stock
+                      </a>
+                      <ul class="dropdown-menu">
+                        <li><a href="#" style="font-size:18px"
+                               onclick=selectSymbol('AABA')>AABA</a></li>
+                        <li><a href="#" style="font-size:18px"
+                               onclick=selectSymbol('AMZN')>AMZN</a></li>
+                        <li><a href="#" style="font-size:18px"
+                               onclick=selectSymbol('BAC')>BAC</a></li>
+                        <li><a href="#" style="font-size:18px"
+                               onclick=selectSymbol('C')>C</a></li>
+                        <li><a href="#" style="font-size:18px"
+                               onclick=selectSymbol('GOOG')>GOOG</a></li>
+                        <li><a href="#" style="font-size:18px"
+                               onclick=selectSymbol('JPM')>JPM</a></li>
+                        <li><a href="#" style="font-size:18px"
+                               onclick=selectSymbol('MSFT')>MSFT</a></li>
+                        <li><a href="#" style="font-size:18px"
+                               onclick=selectSymbol('NFLX')>NFLX</a></li>
+                        <li><a href="#" style="font-size:18px"
+                               onclick=selectSymbol('TWTR')>TWTR</a></li>
+                      </ul>
+                    </div>
+
+                    <ul class="nav nav-pills">
+                        <li><a href="#" style="font-size:20px"
+                               onclick=changePeriod("Year","Time")>Year</a></li>
+                        <li><a href="#" style="font-size:20px"
+                               onclick=changePeriod("Month","Time")>Month</a></li>
+                        <li><a href="#" style="font-size:20px"
+                               onclick=changePeriod("Day","Time")>Day</a></li>
+                    </ul>
+                </div>
+
+            </div>
+            <!--chart-->
+            <h1>
+                <span id="stockName" style="font-size:48px">Stock</span>
+                (
+                <span id="timeLength">Period</span>
+                )
+            </h1>
+            <h2>
+                Short-term Predict:
+                <span id="short_term"> pending</span>
+            </h2>
+            <h2>
+                Long-term Predict:
+                <span id="long_term"> pending</span>
+            </h2>
+            <div style="width: 100%; height: 600px; position: relative">
+
+                <div id="chart_container" style="width: 100%; height: 100%; position: absolute;"></div>
+                <div id="realtime_container"
+                     style="display: none; width: 100%; height: 100%; position: absolute;"></div>
+            </div>
+        </main>
+    </div>
+</div>
+<!-- Bootstrap core JavaScript
+          ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script>window.jQuery || document.write('<script src="{{ url_for('static', filename='js/jquery-slim.min.js') }}"><\/script>')</script>
+<script src="{{ url_for('static', filename='js/popper.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+<!-- Icons -->
+<script src="{{ url_for('static', filename='js/feather.min.js') }}"></script>
+<script>
+    feather.replace()
+</script>
+
+<!-- Graphs -->
+<script src="{{ url_for('static', filename='js/stock_content.js') }}"></script>
+</body>
+</html>

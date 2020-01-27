@@ -1,0 +1,7 @@
+sklearn
+numpy
+flask
+arrow
+pymongo
+scipy
+tensorflow
