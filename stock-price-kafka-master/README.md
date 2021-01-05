@@ -1,5 +1,4 @@
-# stock price
-Stock price is a small project generating random prices of Bovespa stocks and its goal is to guide my studies using Kafka ecosystem. 
+
 
 ![kafka logo](images/kafka-logo.jpg)
 
@@ -46,9 +45,6 @@ After downloading Kafka and setting it up, use the following commands:
 * Run `MainAppStockPriceProducer.java`
 * Run `MainAppStockPriceConsumer.java`
 
-### Improvements
-- Replace Jackson by Avro aiming to improve serialization speed
-- Too many things to list here :P
 
 ### Versions
 - Java 10
