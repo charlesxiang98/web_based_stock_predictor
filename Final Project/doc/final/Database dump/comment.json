@@ -1,0 +1,10 @@
+{"_id":{ "$oid": "5ad9e80267f9c231e11c1b22" },"symbol":"GOOG","username":"freddie","comment":"hello","timestamp":"2018-04-21T03:15:55.818Z"}
+{"_id":{ "$oid": "5ad9f276d15f920ca0823d6d" },"symbol":"GOOG","username":null,"comment":"Nice","timestamp":"2018-04-20T14:00:06.704Z"}
+{"_id":{ "$oid": "5ad9f2d1d15f920ca0823d8e" },"symbol":"AABA","username":null,"comment":"Nice","timestamp":"2018-04-20T14:01:43.510Z"}
+{"_id":{ "$oid": "5ad9f321d15f920ca0823db2" },"symbol":"TWTR","username":"WoW","comment":"Amazing","timestamp":"2018-04-20T14:02:56.840Z"}
+{"_id":{ "$oid": "5ad9f47ed15f920ca0823e18" },"symbol":"GOOG","username":"SweetBoy","comment":"Test","timestamp":"2018-04-20T14:08:40.312Z"}
+{"_id":{ "$oid": "5ad9f5bbd15f920ca0823e71" },"symbol":"GOOG","username":"UESTC","comment":"再您妈的见王八羔子","timestamp":"2018-04-20T14:14:04.561Z"}
+{"_id":{ "$oid": "5ad9f678d15f920ca0823e9f" },"symbol":"GOOG","username":"WEE","comment":"Test3                              ","timestamp":"2018-04-20T14:17:15.548Z"}
+{"_id":{ "$oid": "5ad9fa2cd15f920ca082402f" },"symbol":"AAPL","username":"IPhone","comment":"IPone X is nice                              ","timestamp":"2018-04-20T14:32:50.106Z"}
+{"_id":{ "$oid": "5adba5d0d15f920864459a38" },"symbol":"GOOG","username":"123","comment":"New Test                            ","timestamp":"2018-04-21T20:53:17.697Z"}
+{"_id":{ "$oid": "5adba5f3d15f920864459a48" },"symbol":"GOOG","username":"μ‘s","comment":"Sunny Day Song","timestamp":"2018-04-21T20:57:55.607Z"}
